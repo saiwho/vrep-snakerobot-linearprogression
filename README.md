@@ -32,9 +32,11 @@ and Howie Choset2, `Locomotive Reduction for Snake Robots`, in 2015 IEEE Interna
   
   **[5]** Hopkins JK1, Spranklin BW, Gupta SK, `A survey of snake-inspired robot designs`, in Bionispiration and Biomimetics, 4(2):021001, 2009. [link](http://ruk.usc.edu/bio/gupta/BB09_Hopkins_draft.pdf)
   
-  **[6]** 
+  **[6]** Cornell Wright, Aaron Johnson, Aaron Peck, Zachary McCord, Allison Naaktgeboren, Philip Gianfortoni, Manuel Gonzalez-Rivero,
+Ross Hatton, and Howie Choset. ―Design of a Modular Snake Robot.‖ In Proceedings of the 2007 IEEE/RSJ International Conference on
+Intelligent Robots and Systems, 2007.
 
-    
+ **[7]** 
  
 @*saipothanjanjanam*
 
