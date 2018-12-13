@@ -23,9 +23,7 @@ This repository is for simulation of linearprogression gait for snake robot in v
   **[1]** Add `simExtRemoteApiStart(19999)` inside the `if (sim_call_type == sim_childscriptcall_initialization then)` in the child script of the one of the objects in the V-REP scene and save the scene.
   
   **[2]** Copy the remApi.m, remoteApi.dll, remoteApiProto.m, simpleTest.m to the same folder where the scene is saved.
-         
-         remApi.m, remoteApiProto.m, simpleTest.m can be found in the Program Files/V-REP3/V-REP_PRO_EDU/programming/remoteApiBindings/matlab/matlab
-          
+          remApi.m, remoteApiProto.m, simpleTest.m can be found in the Program Files/V-REP3/V-REP_PRO_EDU/programming/remoteApiBindings/matlab/matlab
           remoteApi.dll can be found in Program Files/V-REP3/V-REP_PRO_EDU/programming/remoteApiBindings//lib/lib/64bit or 32 bit depending on your system.
           
   **[3]** Now open the simpleTest.m to check whether the connection is established between the V-REP and MAtlab.
