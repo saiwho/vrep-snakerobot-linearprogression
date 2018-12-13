@@ -55,7 +55,9 @@ and Howie Choset2, `Locomotive Reduction for Snake Robots`, in 2015 IEEE Interna
   
   **[6]** Cornell Wright, Aaron Johnson, Aaron Peck, Zachary McCord,Allison Naaktgeboren, Philip Gianfortoni, Manuel Gonzalez-Rivero, Ross Hatton, and Howie Choset. ―Design of a Modular Snake Robot.‖ In Proceedings of the 2007 IEEE/RSJ International Conference on Intelligent Robots and Systems, 2007 
   
-  **[7]** V-REP Pro Edu [link](http://www.coppeliarobotics.com/downloads.html)
+  **[7]** Cornell Wright, Austin Buchan, Ben Brown, Jason Geist, Michael Schwerin, David Rollinson, Matthew Tesch, and Howie Chose, `Design and Architecture of the Unified Modular Snake Robot`, in 2012 IEEE International Conference on Robotics and Automation, (ICRA)
+  
+  **[8]** V-REP Pro Edu [link](http://www.coppeliarobotics.com/downloads.html)
     
 @*saipothanjanjanam*
 
