@@ -35,8 +35,8 @@ This repository is for simulation of linearprogression gait for snake robot in v
   
   
 # Steps to run the Simulation
-  
- Run the V-REP Simulator and then run the `SnakeRobot_sim.m`
+
+ Clone the repository, Run the V-REP Simulator and then run the `SnakeRobot_sim.m`
  
  Change the code in the `SnakeRobot_sim.m` inside the `if (clientID>-1) condition` for different snake motions. 
  
