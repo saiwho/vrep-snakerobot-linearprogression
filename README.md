@@ -1,4 +1,4 @@
-# Snake robot corkscrewing gait implementation
+# Snake Robot Corkscrewing Gait Implementation
 This repository is for simulation of linearprogression gait for snake robot in vrep environment. 
 
 # Preview
